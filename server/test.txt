@@ -1,0 +1,2 @@
+PUT /test.txt HTTP/1.0
+In this assignment you will be asked to implement an HTTP client and server running a pared down version of HTTP/1.0. You will have to extend the client and server to make use of some of the application-level headers we have studied in class. 
